@@ -1,4 +1,4 @@
-<h2 align="center">shinjiru - blockchain implementation in golang</h2>
+<h3 align="center">shinjiru - blockchain implementation in golang</h3>
 
 ###
 
@@ -58,15 +58,11 @@
 
 ## installation
 
-- use git clone:
-
 ```
 git clone https://github.com/kenjitheman/shinjiru
 ```
 
 ## usage
-
-- use go run:
 
 ```
 cd cmd
