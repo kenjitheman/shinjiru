@@ -26,7 +26,7 @@
 
 ## project structure:
 
-```
+```go
 ├── blockchain
 │   ├── blockchain.go
 │   ├── block.go
@@ -58,20 +58,20 @@
 
 ## installation
 
-```
+```shell
 git clone https://github.com/kenjitheman/shinjiru
 ```
 
 ## usage
 
-```
+```shell
 cd cmd
 go run main.go
 ```
 
 - or use docker:
 
-```
+```shell
 docker build -t your_image_name .
 docker run -d -p 8080:80 your_image_name
 ```
