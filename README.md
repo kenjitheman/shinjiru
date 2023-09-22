@@ -1,4 +1,4 @@
-<h3 align="center">shinjiru - blockchain implementation in golang</h3>
+## blockchain implementation in golang
 
 ###
 
