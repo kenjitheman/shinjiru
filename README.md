@@ -1,4 +1,4 @@
-## blockchain implementation in golang
+## Blockchain implementation in golang
 
 ###
 
@@ -8,23 +8,23 @@
 
 ###
 
-## project features:
+## Project features:
 
-- `low level badger db (uses leveldb under the hood)`
+- `Low level badger db (uses leveldb under the hood)`
 
-- `using proof of work`
+- `Using proof of work`
 
-- `merkle tree`
+- `Merkle tree`
 
-- `cli tool`
+- `Cli tool`
 
-- `can be run using docker`
+- `Can be run using docker`
 
-#### const difficulty (10) 
+#### Const difficulty (10) :(
 
-- you can use some difficulty algorithms to calculate the difficulty
+- You can use some difficulty algorithms to calculate the difficulty
 
-## project structure:
+## Project structure:
 
 ```go
 ├── blockchain
@@ -56,31 +56,31 @@
     └── wallets.go
 ```
 
-## installation
+## Installation
 
 ```shell
 git clone https://github.com/kenjitheman/shinjiru
 ```
 
-## usage
+## Usage
 
 ```shell
 cd cmd
 go run main.go
 ```
 
-- or use docker:
+- Or use Docker:
 
 ```shell
 docker build -t your_image_name .
 docker run -d -p 8080:80 your_image_name
 ```
 
-## contributing
+## Contributing
 
-- pull requests are welcome, for major changes, please open an issue first to
-  discuss what you would like to change
+- Pull requests are welcome, for major changes, please open an issue first to
+  discuss what you would like to change.
 
-## license
+## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)
