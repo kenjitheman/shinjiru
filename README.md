@@ -58,20 +58,20 @@
 
 ## Installation
 
-```shell
+```sh
 git clone https://github.com/kenjitheman/shinjiru
 ```
 
 ## Usage
 
-```shell
+```sh
 cd cmd
 go run main.go
 ```
 
 - Or use Docker:
 
-```shell
+```sh
 docker build -t your_image_name .
 docker run -d -p 8080:80 your_image_name
 ```
