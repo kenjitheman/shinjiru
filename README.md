@@ -27,6 +27,8 @@
 ## Project structure:
 
 ```go
+shinjiru
+│
 ├── blockchain
 │   ├── blockchain.go
 │   ├── block.go
