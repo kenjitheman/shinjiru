@@ -1,12 +1,4 @@
-## Blockchain implementation in golang
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="200" alt="go logo"  />
-</div>
-
-###
+# Blockchain implementation in Go
 
 ## Project features:
 
@@ -23,40 +15,6 @@
 #### Const difficulty (10) :(
 
 - You can use some difficulty algorithms to calculate the difficulty
-
-## Project structure:
-
-```go
-shinjiru
-│
-├── blockchain
-│   ├── blockchain.go
-│   ├── block.go
-│   ├── chain_iter.go
-│   ├── merkle.go
-│   ├── merkle_test.go
-│   ├── proof.go
-│   ├── transaction.go
-│   ├── tx.go
-│   └── utxo.go
-├── cli
-│   └── cli.go
-├── cmd
-│   └── main.go
-├── Dockerfile
-├── go.mod
-├── go.sum
-├── network
-│   └── network.go
-├── README.md
-├── tmp
-│   └── blocks
-│       └── keep.txt
-└── wallet
-    ├── utils.go
-    ├── wallet.go
-    └── wallets.go
-```
 
 ## Installation
 
