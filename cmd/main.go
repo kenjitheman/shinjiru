@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/kenjitheman/shinjiru/cli"
+	"github.com/btwkenji/shinjiru/cli"
 )
 
 func main() {

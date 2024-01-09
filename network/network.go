@@ -14,7 +14,7 @@ import (
 
 	"github.com/vrecan/death/v3"
 
-	"github.com/kenjitheman/shinjiru/blockchain"
+	"github.com/btwkenji/shinjiru/blockchain"
 )
 
 const (

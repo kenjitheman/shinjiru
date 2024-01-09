@@ -19,7 +19,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/kenjitheman/shinjiru
+git clone https://github.com/btwkenji/shinjiru
 ```
 
 ## Usage
