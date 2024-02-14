@@ -13,7 +13,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/btwkenji/shinjiru/wallet"
+	"github.com/kenjitheman/shinjiru/wallet"
 )
 
 type Transaction struct {

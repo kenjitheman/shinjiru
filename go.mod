@@ -1,4 +1,4 @@
-module github.com/btwkenji/shinjiru
+module github.com/kenjitheman/shinjiru
 
 go 1.20
 
